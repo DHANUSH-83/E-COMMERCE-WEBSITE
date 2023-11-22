@@ -16,7 +16,7 @@ LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS &
 - Modern CSS techniques to create stunning designs and effects.
 - How to use common components and layout patterns for professional website design and development.
 - Advanced responsive design using media queries.
-- And Many More.
+- And Many More.hi 
 
 ## Sections
 - Part1: Responsive Home Page Design.
